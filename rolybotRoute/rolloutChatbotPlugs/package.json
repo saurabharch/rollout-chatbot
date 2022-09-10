@@ -20,9 +20,9 @@
   },
   "homepage": "https://github.com/saurabharch/rollout-chatbot#readme",
   "dependencies": {
+    "@saurabharch/helpcenter-query-client": "^0.1.5",
     "@saurabharch/rollout-chatbot-util": "^0.8.37",
     "@saurabharch/rollout-client": "^0.8.28",
-    "@saurabharch/helpcenter-query-client": "^0.1.2",
     "axios": "^0.27.2",
     "minimist-string": "^1.0.2"
   }
