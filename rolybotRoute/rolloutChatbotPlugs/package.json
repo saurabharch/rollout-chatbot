@@ -1,0 +1,29 @@
+{
+  "name": "@saurabharch/rollout-chatbot-plugs",
+  "version": "0.0.1",
+  "description": "Rollout Chatbot Plugs",
+  "engines": {
+    "node": ">=12.x"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saurabharch/rollout-chatbot.git"
+  },
+  "author": "Saurabh Kashyap - <saurabh@raindigi.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saurabharch/rollout-chatbot/issues"
+  },
+  "homepage": "https://github.com/saurabharch/rollout-chatbot#readme",
+  "dependencies": {
+    "@saurabharch/rollout-chatbot-util": "^0.8.37",
+    "@saurabharch/rollout-client": "^0.8.28",
+    "@saurabharch/helpcenter-query-client": "^0.1.2",
+    "axios": "^0.27.2",
+    "minimist-string": "^1.0.2"
+  }
+}
